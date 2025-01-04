@@ -1,1 +1,2 @@
 # NODEJS
+// connect local and remote rep: https://translated.turbopages.org/proxy_u/en-ru.ru.d2b6fa2d-677972fd-5ceb7c64-74722d776562/https/www.freecodecamp.org/news/create-and-sync-git-and-github-repositories/#heading-scenario-1-local-first
